@@ -1,0 +1,5 @@
+{
+  "name": "personal-website",
+  "buildCommand": "echo 'No build needed for static site'",
+  "outputDirectory": "."
+}
